@@ -1,4 +1,5 @@
-baseURL = 'https://wiki.gaurafro.com/'
+baseURL = 'https://gaurafro.github.io/wiki/'
+
 languageCode = 'en-us'
 title = 'Wiki'
 # Change the default theme to be use when building the site with Hugo
