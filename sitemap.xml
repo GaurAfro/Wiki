@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wiki.gaurafro.com/basics/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/basics/index.html</loc>
     <lastmod>2023-11-17T16:31:37+01:00</lastmod>
   </url>
   <url>
-    <loc>https://wiki.gaurafro.com/basics/first-content/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/basics/first-content/index.html</loc>
     <lastmod>2023-11-17T16:31:37+01:00</lastmod>
   </url>
   <url>
-    <loc>https://wiki.gaurafro.com/basics/second-content/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/basics/second-content/index.html</loc>
     <lastmod>2023-11-17T16:31:37+01:00</lastmod>
   </url>
   <url>
-    <loc>https://wiki.gaurafro.com/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/index.html</loc>
     <lastmod>2023-11-17T16:31:37+01:00</lastmod>
   </url>
   <url>
-    <loc>https://wiki.gaurafro.com/categories/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://wiki.gaurafro.com/tags/index.html</loc>
+    <loc>https://gaurafro.github.io/wiki/tags/index.html</loc>
   </url>
 </urlset>

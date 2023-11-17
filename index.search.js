@@ -5,7 +5,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Basics",
-    "uri": "/basics/index.html"
+    "uri": "/wiki/basics/index.html"
   },
   {
     "breadcrumb": "Basics",
@@ -13,7 +13,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "First Content",
-    "uri": "/basics/first-content/index.html"
+    "uri": "/wiki/basics/first-content/index.html"
   },
   {
     "breadcrumb": "Basics",
@@ -21,7 +21,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Second Content",
-    "uri": "/basics/second-content/index.html"
+    "uri": "/wiki/basics/second-content/index.html"
   },
   {
     "breadcrumb": "",
@@ -29,7 +29,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "This Wiki",
-    "uri": "/index.html"
+    "uri": "/wiki/index.html"
   },
   {
     "breadcrumb": "",
@@ -37,7 +37,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/wiki/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -45,6 +45,6 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/wiki/tags/index.html"
   }
 ]
