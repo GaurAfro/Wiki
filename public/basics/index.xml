@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Wiki</title>
+    <link>https://wiki.gaurafro.com/basics/index.html</link>
+    <description>Recent content in Basics on Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 16:31:37 +0100</lastBuildDate>
+    <atom:link href="https://wiki.gaurafro.com/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Content</title>
+      <link>https://wiki.gaurafro.com/basics/first-content/index.html</link>
+      <pubDate>Fri, 17 Nov 2023 16:31:37 +0100</pubDate>
+      <guid>https://wiki.gaurafro.com/basics/first-content/index.html</guid>
+      <description>hugo new basics/first-content.md hugo new basics/second-content/_index.</description>
+    </item>
+    <item>
+      <title>Second Content</title>
+      <link>https://wiki.gaurafro.com/basics/second-content/index.html</link>
+      <pubDate>Fri, 17 Nov 2023 16:31:37 +0100</pubDate>
+      <guid>https://wiki.gaurafro.com/basics/second-content/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

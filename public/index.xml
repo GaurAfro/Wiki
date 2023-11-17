@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This Wiki on Wiki</title>
+    <link>https://wiki.gaurafro.com/index.html</link>
+    <description>Recent content in This Wiki on Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 16:31:37 +0100</lastBuildDate>
+    <atom:link href="https://wiki.gaurafro.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics</title>
+      <link>https://wiki.gaurafro.com/basics/index.html</link>
+      <pubDate>Fri, 17 Nov 2023 16:31:37 +0100</pubDate>
+      <guid>https://wiki.gaurafro.com/basics/index.html</guid>
+      <description>Intro Basics Discover what this Hugo theme is all about and the core concepts behind it.</description>
+    </item>
+  </channel>
+</rss>
